@@ -7,13 +7,13 @@ My name is Vincent and I'm a Full Stack Developer who loves working with JavaScr
 
 Here are some of the technologies and tools that I am proficient in:
 
-| HTML | CSS | JavaScript | React | Python | Bootstrap |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="HTML"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS3"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap"/>](#) |
+| HTML | CSS | JavaScript | React | Python | Bootstrap | Django |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="HTML"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS3"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap"/>](#) | [<img src="https://devicon-website.vercel.app/api/django/plain-wordmark.svg" width="48" height="48" alt="Django"/>](#) |
 
-| Node | Express | MongoDB | PostgreSQL | Git | Docker |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker"/>](#) |
+| FastAPI | Node | Express | MongoDB | PostgreSQL | Git | Docker |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker"/>](#) |
 
 I enjoy working with these technologies to build interactive and responsive web applications that deliver an optimal user experience. I am constantly updating my skills and staying up-to-date with the latest trends in the industry to ensure that I can deliver high-quality code and create innovative solutions.
 
@@ -44,4 +44,4 @@ If you would like to connect with me or learn more about my work, please feel fr
 - [GitHub](https://github.com/vincenthphung)
 - [Email](mailto:vincent.h.phung@gmail.com)
 
-I am excited to kick-start my career as a Full Stack Developer and contribute to the success of your team!
+
