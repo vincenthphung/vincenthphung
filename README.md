@@ -1,11 +1,44 @@
+# Greetings! I'm Vincent Phung 👋
 
-# 👋 Hey there!
 
-My name is Vincent and I'm a Full Stack Developer who loves working with JavaScript technologies. I'm currently focused on learning everything related to web development and passionate about exploring new technologies to solve real-life problems.
 
-# 🔧 Technologies & Tools
+## 🚀 Journey into IT
 
-Here are some of the technologies and tools that I am proficient in:
+Transitioning from my initial roots, I am currently diving deep into the vast ocean of Information Technology. My dedication and hunger for knowledge have allowed me to build a formidable foundation in IT support, supplemented by my endeavors in web development.
+
+---
+
+## 🛠️ IT Support Mastery
+
+The foundation of any successful IT professional lies in their expertise in IT support. My skillset includes:
+
+- 🖥️ **System Administration:** Proactively managing servers, workstations, and mobile devices.
+- 🌐 **Network Management:** Overseeing LAN, WAN, VPN, and VLAN configurations.
+- 🔩 **Hardware Management:** Assembling, upgrading, and maintaining computing equipment.
+- 💽 **Software Deployment:** Rolling out applications, updates, and managing licenses.
+- 💾 **Data Integrity:** Backing up, restoring, and ensuring data reliability.
+- 🛡️ **Cybersecurity:** Implementing firewalls, intrusion detection systems, and antivirus software.
+
+---
+
+## 📜 IT Support Projects
+
+### Microsoft Azure
+- [Inspecting Network Traffic in Azure](https://github.com/ErnestoAPantoja/azure-network-protocols)
+- [Installing & Managing Active Directory in Azure](https://github.com/ErnestoAPantoja/install-ad)
+- [Understanding DNS & Load Balancers in Azure](https://github.com/ErnestoAPantoja/intuition-dns)
+- [Securing Data through File Permissions in Azure](https://github.com/ErnestoAPantoja/file-permissions)
+
+### osTicket (Help Desk Ticketing System)
+- [osTicket: Setup, Prerequisites, & Installation](https://github.com/ErnestoAPantoja/osticket-prereqs)
+- [osTicket: Advanced Configurations & Plugins](https://github.com/ErnestoAPantoja/post-install-config)
+- [osTicket: Ticket Life Cycle & Service Management](https://github.com/ErnestoAPantoja/ticket-lifecycle)
+
+---
+
+## 💡 Dive into Web Development
+
+My passion doesn't stop at IT support. I'm also exploring the world of web development and have accumulated skills in:
 
 | HTML | CSS | JavaScript | React | Python | Bootstrap | Django |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -15,33 +48,21 @@ Here are some of the technologies and tools that I am proficient in:
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker"/>](#) |
 
-I enjoy working with these technologies to build interactive and responsive web applications that deliver an optimal user experience. I am constantly updating my skills and staying up-to-date with the latest trends in the industry to ensure that I can deliver high-quality code and create innovative solutions.
-
-# 💼 Professional Experience
-
-I have gained practical experience by working on various projects, both independently and as part of a team. I have a solid understanding of software development principles and best practices, and I am able to write clean, maintainable, and efficient code. I am also experienced in version control using Git and have a good understanding of database management systems like MongoDB and PostgreSQL.
-
-# 🌱 Continuous Learning
-
-I believe in continuous learning and constantly strive to expand my skill set. I am always eager to learn new technologies and tools that can enhance my capabilities as a Full Stack Developer. I actively participate in online courses, workshops, and hackathons to stay updated with the latest advancements in the field of web development. I am also an avid reader of technical blogs and publications, and I enjoy experimenting with personal projects to improve my skills.
 
 
-# 🏆 Achievements
+---
 
-As a recent graduate of a coding bootcamp, I am proud of the following achievements:
+## 📚 Embracing Continuous Learning
 
-- Successfully completing an intensive and comprehensive coding bootcamp program, where I gained hands-on experience with technologies such as HTML, CSS, JavaScript, React, Node.js, and databases like MongoDB and PostgreSQL.
-- Developing multiple web applications during the bootcamp, showcasing my ability to apply learned concepts and technologies to real-world projects.
-- Receiving positive feedback from instructors and peers for my dedication, hard work, and problem-solving skills demonstrated throughout the bootcamp.
-- Participating in team projects and collaborating with fellow bootcamp graduates to build full-stack web applications, improving my teamwork and communication skills in an Agile development environment.
-- Demonstrating continuous learning by keeping up with the latest industry trends and best practices, and actively seeking opportunities to expand my technical skills through online resources, tutorials, and workshops.
+This field demands perpetual learning. My commitment to self-improvement and staying updated with the latest in IT support and web development keeps me moving forward.
 
-# 📫 Contact
+---
 
-If you would like to connect with me or learn more about my work, please feel free to reach out to me through the following channels:
+## 🤝 Let's Collaborate!
+
+I am keen to connect with seasoned professionals, mentors, and enthusiasts alike. If you're interested in a conversation, collaboration, or even just a chat:
 
 - [LinkedIn](https://www.linkedin.com/in/vincenthphung)
 - [GitHub](https://github.com/vincenthphung)
 - [Email](mailto:vincent.h.phung@gmail.com)
-
 
