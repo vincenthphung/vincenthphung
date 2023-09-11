@@ -1,68 +1,59 @@
-# Greetings! I'm Vincent Phung 👋
 
 
+# 👋 Welcome!
 
-## 🚀 Journey into IT
+I'm Vincent, navigating the realms of IT support and web development. I began by troubleshooting vital infrastructure and servers but soon expanded my horizons into the intricate world of web design. With an aim to blend IT expertise with captivating web interfaces, my path is a medley of bytes, challenges, and ceaseless education.
 
-Transitioning from my initial roots, I am currently diving deep into the vast ocean of Information Technology. My dedication and hunger for knowledge have allowed me to build a formidable foundation in IT support, supplemented by my endeavors in web development.
+## 🚀 Immersed in IT
 
----
+From my roots, I've delved deeply into the vast domain of Information Technology. My fervor for learning has fortified my foundation in IT support, enriched further by my adventures in web development.
 
-## 🛠️ IT Support Mastery
+## 🛠️ Mastery in IT Support
 
-The foundation of any successful IT professional lies in their expertise in IT support. My skillset includes:
+A solid foundation in IT support is quintessential for any IT professional. My expertise encompasses:
 
-- 🖥️ **System Administration:** Proactively managing servers, workstations, and mobile devices.
-- 🌐 **Network Management:** Overseeing LAN, WAN, VPN, and VLAN configurations.
-- 🔩 **Hardware Management:** Assembling, upgrading, and maintaining computing equipment.
-- 💽 **Software Deployment:** Rolling out applications, updates, and managing licenses.
-- 💾 **Data Integrity:** Backing up, restoring, and ensuring data reliability.
-- 🛡️ **Cybersecurity:** Implementing firewalls, intrusion detection systems, and antivirus software.
+- 🖥️ **System Administration:** Proactive management of servers, workstations, and mobile devices.
+- 🌐 **Network Management:** Supervising LAN, WAN, VPN, and VLAN setups.
+- 🔩 **Hardware Management:** Assembly, upgrades, and upkeep of computing hardware.
+- 💽 **Software Deployment:** Launching applications, updates, and license management.
+- 💾 **Data Integrity:** Ensuring data backup, restoration, and reliability.
+- 🛡️ **Cybersecurity:** Fortification with firewalls, intrusion detection systems, and antivirus solutions.
 
----
-
-## 📜 IT Support Projects
+## 📜 Noteworthy IT Support Projects
 
 ### Microsoft Azure
-- [Inspecting Network Traffic in Azure](https://github.com/ErnestoAPantoja/azure-network-protocols)
-- [Installing & Managing Active Directory in Azure](https://github.com/ErnestoAPantoja/install-ad)
-- [Understanding DNS & Load Balancers in Azure](https://github.com/ErnestoAPantoja/intuition-dns)
-- [Securing Data through File Permissions in Azure](https://github.com/ErnestoAPantoja/file-permissions)
+- [Exploring Network Traffic in Azure](https://github.com//azure-network-protocols)
+- [Installation & Management of Active Directory in Azure](https://github.com//install-ad)
+- [Demystifying DNS & Load Balancers in Azure](https://github.com//intuition-dns)
+- [Safeguarding Data through Azure File Permissions](https://github.com//file-permissions)
 
 ### osTicket (Help Desk Ticketing System)
-- [osTicket: Setup, Prerequisites, & Installation](https://github.com/ErnestoAPantoja/osticket-prereqs)
-- [osTicket: Advanced Configurations & Plugins](https://github.com/ErnestoAPantoja/post-install-config)
-- [osTicket: Ticket Life Cycle & Service Management](https://github.com/ErnestoAPantoja/ticket-lifecycle)
+- [osTicket: Initialization & Installation](https://github.com//osticket-prereqs)
+- [osTicket: Advanced Configurations & Add-ons](https://github.com//post-install-config)
+- [osTicket: Navigating Ticket Life Cycle & Service Operations](https://github.com//ticket-lifecycle)
 
----
+## 💡 Venturing into Web Development
 
-## 💡 Dive into Web Development
+Beyond IT support, I'm traversing the fascinating terrain of web development, honing skills in:
 
-My passion doesn't stop at IT support. I'm also exploring the world of web development and have accumulated skills in:
-
-| HTML | CSS | JavaScript | React | Python | Bootstrap | Django |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="HTML"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS3"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap"/>](#) | [<img src="https://devicon-website.vercel.app/api/django/plain-wordmark.svg" width="48" height="48" alt="Django"/>](#) |
-
-| FastAPI | Node | Express | MongoDB | PostgreSQL | Git | Docker |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker"/>](#) |
+| HTML | CSS | JavaScript | React | Python | Django |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="HTML"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS3"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>](#) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>](#) | [<img src="https://devicon-website.vercel.app/api/django/plain-wordmark.svg" width="48" height="48" alt="Django"/>](#) |
 
 
 
----
 
-## 📚 Embracing Continuous Learning
+## 📚 A Commitment to Lifelong Learning
 
-This field demands perpetual learning. My commitment to self-improvement and staying updated with the latest in IT support and web development keeps me moving forward.
+Innovation is ceaseless in this field. My pledge to continual learning and staying attuned to the latest advancements in both IT support and web development fuels my progress.
 
----
+## 🤝 Connect & Collaborate!
 
-## 🤝 Let's Collaborate!
-
-I am keen to connect with seasoned professionals, mentors, and enthusiasts alike. If you're interested in a conversation, collaboration, or even just a chat:
+I'm eager to bond with experts, mentors, and fellow enthusiasts. If a conversation, collaboration, or a simple chat intrigues you:
 
 - [LinkedIn](https://www.linkedin.com/in/vincenthphung)
 - [GitHub](https://github.com/vincenthphung)
 - [Email](mailto:vincent.h.phung@gmail.com)
+
+---
 
