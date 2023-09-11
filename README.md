@@ -1,5 +1,3 @@
-
-
 # 👋 Welcome!
 
 I'm Vincent, navigating the realms of IT support and web development. I began by troubleshooting vital infrastructure and servers but soon expanded my horizons into the intricate world of web design. With an aim to blend IT expertise with captivating web interfaces, my path is a medley of bytes, challenges, and ceaseless education.
